@@ -27,11 +27,15 @@ p{
   margin: 0;
 }
 /* Nabvar part start */
-.nav{
-  background-image: url(/img/Header\ Section\ \(1\).png);
-  background-repeat: no-repeat;
-  background-size: cover;
+nav .container{
+  position: relative;
+}
+.navbar{
   padding-top: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 .navbar-expand-lg .navbar-nav .nav-link{
   padding: 0;
@@ -57,7 +61,10 @@ p{
 
 /* banner part start */
 .banner{
-  padding-top: 62px;
+  background-image: url(/img/Header\ Section\ \(1\).png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 200px;
 }
 .banner h1{
   width: 640px;
@@ -316,6 +323,7 @@ p{
 }
 .digital{
   padding-top: 250px;
+  padding-bottom: 140px;
 }
 .digital img{
   width: 100%;
