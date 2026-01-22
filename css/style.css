@@ -23,7 +23,7 @@ p{
   font-size: 18px;
   font-weight: 400;
   font-family: "Inter", sans-serif;
-  color: #000;
+  color: #5B5F77;
   margin: 0;
 }
 /* Nabvar part start */
@@ -214,3 +214,142 @@ p{
   font-family: "Inter", sans-serif;
 }
 /* service part end */
+
+/* Best part start */
+.best {
+  padding: 160px 0;
+}
+.best img{
+  width: 100%;
+}
+.best h2{
+  width: 530px;
+}
+.best .p{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  width: 505px;
+}
+.best .b-content{
+  margin-top: 55px;
+}
+.best .b-info h4{
+  margin: 0;
+  width: 260px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.best .b-info p{
+  width: 258px;
+  font-size: 16px;
+  padding-top: 12px;
+}
+/* Best part end */
+
+/* Meetup part start */
+.meetup{
+  background-image: url(/img/meetup.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meetup .m-heading h6{
+  color: orangered;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 80px;
+}
+.meetup .m-heading h2{
+  color: #fff;
+  text-align: center;
+  padding-bottom: 221px;
+}
+.meetup .card{
+  position: relative;
+  width: 300px;
+  height: 350px;
+  background-color: #C4C4C4;
+}
+.meetup .card .c-content{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 220px;
+  height: 80px;
+  background-color: #fff;
+  border-top-right-radius: 10px;
+}
+.meetup .card .c-content h6{
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+.meetup .card .c-content p{
+  font-size: 14px;
+  text-align: center;
+}
+.meetup .icon{position: absolute;
+  right: 0;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.meetup .icon i{
+  font-size: 40px;
+}
+.meetup .m-position{
+  position: relative;
+}
+.meetup .m-card{
+  position: absolute;
+  top: 230px;
+  left: 0;
+}
+
+/* Meetup part end */
+
+/* Digital part start */
+.digital .row{
+  align-items: center;
+}
+.digital{
+  padding-top: 250px;
+}
+.digital img{
+  width: 100%;
+}
+#accordionExample{
+  margin-top: 50px;
+}
+.accordion-item{
+  border: 1px solid #52C5B6;
+  margin-bottom: 15px;
+}
+.accordion-button{
+  font-size: 20px;
+  font-weight: 600;
+  padding: 0 30px;
+  background-color: transparent;
+  box-shadow: 0 0 0 transparent !important;
+}
+.accordion-body{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+}
+.accordion-button:not(.collapsed){
+  background-color: #52C5B6;
+}
+.accordion-button::after{
+  background-image: none !important;
+  content: "+";
+  transform:  translateY(-100%) rotate(0);
+}
+.accordion-button:not(.collapsed)::after{
+  background-image: none !important;
+  content: "x";
+  transform:  translateY(-100%) rotate(0);
+}
+/* Digital part end */
