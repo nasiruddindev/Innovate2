@@ -487,3 +487,37 @@ nav .container{
   column-gap: 10px;
 }
 /* Blog part end */
+
+/* fotter part start */
+.fotter{
+  padding: 110px 0;
+  background-color: #30344E;
+}
+.fotter .f-left p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  width: 260px;
+  padding: 25px 0;
+}
+.fotter .f-icon i{
+  font-size: 16px;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  padding: 13px;
+}
+.fotter .f-right h6{
+  font-size: 18px;
+  font-weight: 600;
+  color: #52C5B6;
+  padding-bottom: 20px;
+}
+.fotter .f-right p{
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  padding-bottom: 12px;
+}
+/* fotter part end */
