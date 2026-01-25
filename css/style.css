@@ -325,6 +325,12 @@ nav .container{
   padding-top: 250px;
   padding-bottom: 140px;
 }
+.digital h3{
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 54px;
+  margin: 0;
+}
 .digital img{
   width: 100%;
 }
