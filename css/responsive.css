@@ -219,5 +219,489 @@ p{
 	text-align: center;
   padding-top: 50px;
 }
+.f-logo{
+	text-align: center;
+}
+/* Fotter part end */
+}
+@media (min-width:576px) and (max-width:767.99px){
+  h2{
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 54px;
+  margin: 0;
+}
+p{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  color: #5B5F77;
+  margin: 0;
+}
+.btn {
+	font-size: 14px;
+	padding: 13px 20px;
+}
+/* wellcome part start */
+.wellcome {
+	padding: 85px 0;
+}
+.wellcome img{
+  width: 100%;
+}
+.wellcome .right{
+  padding: 50px 0;
+}
+.wellcome h2{
+  width: auto;
+  text-align: center;
+}
+.wellcome h6{
+	font-size: 17px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.wellcome .p {
+	text-align: center;
+	font-size: 16px;
+}
+.wellcome .w-icon p{
+  width: auto;
+  text-align: center;
+}
+.wellcome .well-btn {
+  text-align: center;
+}
+/* wellcome part end */
+
+/* Service part start */
+.service {
+	padding: 50px 0;
+}
+.ser-head {
+	display: block;
+}
+.ser-head h6 {
+	font-size: 17px;
+	text-align: center;
+}
+.ser-head h2 {
+	width: auto;
+  font-size: 37px;
+	text-align: center;
+}
+.ser-head p {
+	width: auto;
+	text-align: center;
+	padding-top: 20px;
+}
+.service .ser-card {
+	row-gap: 20px;
+}
+.service .card {
+	width: 48%;
+}
+/* Service part end */
+
+/* Best part start */
+.best {
+	padding: 60px 0;
+}
+.best h2 {
+	width: auto;
+	text-align: center;
+}
+.best .p {
+	width: auto;
+	text-align: center;
+}
+.best-btn{
+	text-align: center;
+}
+.best .b-info h4 {
+	width: auto;
+	text-align: center;
+}
+.best .b-info p {
+	width: auto;
+	text-align: center;
+	padding-bottom: 30px;
+}
+/* Best part end */
+
+/* Meetup part start */
+.meetup {
+	background-color: yellowgreen;
+}
+.meetup .m-card {
+	position: static;
+}
+.meetup .card {
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.meetup .m-heading h2 {
+	padding-bottom: 70px;
+}
+/* Meetup part end */
+
+/* Digital part start */
+.digital {
+	padding-top: 70px;
+	padding-bottom: 110px;
+}
+.digital h3{
+  font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+}
+.accordion-button{
+  font-size: 16px;
+  padding: 0 30px;
+}
+.accordion-body{
+  font-size: 14px;
+}
+/* Digital part end */
+
+/* Trust part end */
+.trust {
+	padding: 80px 0;
+}
+.trust h3 {
+	font-size: 35px;
+	text-align: center;
+}
+.trust-btn{
+	text-align: center;
+  margin-bottom: 50px;
+}
+.trust-info{
+	justify-content: space-between;
+}
+.trust h1 {
+	font-size: 45px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.trust p {
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.trust .logo {
+	text-align: center;
+	row-gap: 30px;
+}
+.trust .logo img{
+	width: 70%;
+}
+/* Trust part end */
+
+/* Coustomer part start */
+.coustomer {
+	padding: 80px 0;
+}
+.coustomer h2{
+	text-align: center;
+}
+.coust-content {
+	width: 100%;
+	margin-top: 45px;
+	padding: 25px;
+}
+.coust-img {
+	width: 50px;
+	height: 50px;
+  display: inline-block;
+}
+.img-title h6 {
+	font-size: 16px;
+}
+.img-title p {
+	font-size: 12px;
+}
+.img-info{
+	width: auto;
+}
+.coust-info i {
+	color: gold;
+	padding-top: 20px;
+}
+/* Coustomer part end */
+
+/* Blog part start */
+.blog {
+	padding: 80px 0;
+}
+.blog h6 {
+	font-size: 18px;
+}
+/* Blog part end */
+
+/* Fotter part start */
+.f-logo{
+	text-align: center;
+}
+.fotter .f-left p {
+  width: auto;
+	text-align: center;
+}
+.f-icon{
+	text-align: center;
+}
+.f-info{
+	text-align: center;
+  padding-top: 50px;
+}
+/* Fotter part end */
+}
+@media (min-width:768px) and (max-width:991.99px){
+  h2{
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 54px;
+  margin: 0;
+}
+p{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  color: #5B5F77;
+  margin: 0;
+}
+.btn {
+	font-size: 14px;
+	padding: 13px 20px;
+}
+/* wellcome part start */
+.wellcome {
+	padding: 85px 0;
+}
+.wellcome img{
+  width: 100%;
+}
+.wellcome .right{
+  padding: 10px 0;
+}
+.wellcome h2{
+	font-size: 25px;
+	line-height: 35px;
+  width: auto;
+  text-align: center;
+}
+.wellcome h6{
+	font-size: 15px;
+	text-align: center;
+	padding-bottom: 10px;
+	margin: 0;
+}
+.wellcome .p {
+	text-align: center;
+	font-size: 13px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.wellcome .w-icon p{
+	font-size: 14px;
+	padding-bottom: 10px;
+  width: auto;
+  text-align: center;
+}
+.wellcome .well-btn {
+	margin-top: 8px;
+  text-align: center;
+}
+/* wellcome part end */
+
+/* Service part start */
+.service {
+	padding: 50px 0;
+}
+.ser-head {
+	display: block;
+}
+.ser-head h6 {
+	font-size: 17px;
+	text-align: center;
+}
+.ser-head h2 {
+	width: auto;
+  font-size: 37px;
+	text-align: center;
+}
+.ser-head p {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+}
+.service .ser-card {
+	row-gap: 30px;
+}
+.service .card {
+	width: 48%;
+}
+/* Service part end */
+
+/* Best part start */
+.best {
+	padding: 60px 0;
+}
+.best h2 {
+	width: auto;
+	text-align: center;
+}
+.best .p {
+	width: auto;
+	text-align: center;
+}
+.best-btn{
+	text-align: center;
+}
+.best .b-info h4 {
+	width: auto;
+	text-align: center;
+}
+.best .b-info p {
+	width: auto;
+	text-align: center;
+	padding-bottom: 30px;
+}
+/* Best part end */
+
+/* Meetup part start */
+.meetup {
+	background-color: yellowgreen;
+}
+.meetup .m-card {
+	position: static;
+}
+.meetup .card {
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.meetup .m-heading h2 {
+	padding-bottom: 70px;
+}
+/* Meetup part end */
+
+/* Digital part start */
+.digital {
+	padding-top: 70px;
+	padding-bottom: 110px;
+}
+.digital h3{
+  font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+}
+.accordion-button{
+  font-size: 16px;
+  padding: 0 30px;
+}
+.accordion-body{
+  font-size: 14px;
+}
+/* Digital part end */
+
+/* Trust part end */
+.trust {
+	padding: 80px 0;
+}
+.trust h3 {
+	font-size: 35px;
+	text-align: center;
+}
+.trust-btn{
+	text-align: center;
+  margin-bottom: 50px;
+}
+.trust-info{
+	justify-content: space-between;
+}
+.trust h1 {
+	font-size: 45px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.trust p {
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.trust .logo {
+	text-align: center;
+	row-gap: 30px;
+}
+.trust .logo img{
+	width: 70%;
+}
+/* Trust part end */
+
+/* Coustomer part start */
+.coustomer {
+	padding: 80px 0;
+}
+.coustomer h2{
+	text-align: center;
+}
+.coust-content {
+	width: 100%;
+	margin-top: 45px;
+	padding: 25px;
+}
+.coust-img {
+	width: 50px;
+	height: 50px;
+  display: inline-block;
+}
+.img-title h6 {
+	font-size: 16px;
+}
+.img-title p {
+	font-size: 12px;
+}
+.img-info{
+	width: auto;
+}
+.coust-info i {
+	color: gold;
+	padding-top: 20px;
+}
+/* Coustomer part end */
+
+/* Blog part start */
+.blog .card-title {
+	padding-top: 10px;
+	font-size: 17px;
+}
+.blog .card-text {
+	padding-top: 8px;
+	padding-bottom: 25px;
+	font-size: 14px;
+}
+.blog {
+	padding: 80px 0;
+}
+.blog h6 {
+	font-size: 18px;
+}
+/* Blog part end */
+
+/* Fotter part start */
+.f-logo{
+	text-align: center;
+}
+.fotter .f-left p {
+  width: auto;
+	text-align: center;
+}
+.f-icon{
+	text-align: center;
+}
+.f-info{
+	text-align: center;
+  padding-top: 50px;
+}
 /* Fotter part end */
 }
