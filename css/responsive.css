@@ -16,6 +16,60 @@ p{
 	font-size: 14px;
 	padding: 13px 20px;
 }
+/* Navbar part start */
+
+.navbar-toggler{
+	font-size: 14px;
+	background-color: transparent;
+	color: #fff;
+}
+.navbar-collapse{
+	text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-left: 0px;
+	padding-bottom: 20px;
+}
+.navbar-toggler:focus{
+	box-shadow: none;
+}
+/* Navbar part end */
+
+/* Banner part start */
+.banner{
+  padding-top: 50px;
+}
+.banner h1{
+  width: auto;
+  font-size: 30px;
+  line-height: 44px;
+}
+.banner .p {
+	width: auto;
+}
+.banner .box {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.banner .profile {
+	width: 40px;
+	height: 40px;
+}
+.banner .rating .icon h4 {
+	font-size: 20px;
+}
+.banner .rating .icon {
+	column-gap: 10px;
+}
+.banner .rating .icon i {
+	font-size: 9px;
+}
+.banner .rating p{
+	font-size: 13px;
+}
+/* Banner part end */
+
+
 /* wellcome part start */
 .wellcome {
 	padding: 85px 0;
@@ -242,6 +296,47 @@ p{
 	font-size: 14px;
 	padding: 13px 20px;
 }
+/* Navbar part start */
+
+.navbar-toggler{
+	font-size: 14px;
+	background-color: transparent;
+	color: #fff;
+}
+.navbar-collapse{
+	text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-left: 0px;
+	padding-bottom: 20px;
+}
+.navbar-toggler:focus{
+	box-shadow: none;
+}
+/* Navbar part end */
+
+/* Banner part start */
+.banner{
+  padding-top: 50px;
+}
+.banner h1{
+  width: auto;
+  font-size: 40px;
+  line-height: 54px;
+}
+.banner .p {
+	width: auto;
+}
+.banner .box {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.banner .profile {
+	width: 50px;
+	height: 50px;
+}
+/* Banner part end */
+
 /* wellcome part start */
 .wellcome {
 	padding: 85px 0;
@@ -474,6 +569,47 @@ p{
 	font-size: 14px;
 	padding: 13px 20px;
 }
+/* Navbar part start */
+
+.navbar-toggler{
+	font-size: 14px;
+	background-color: transparent;
+	color: #fff;
+}
+.navbar-collapse{
+	text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-left: 0px;
+	padding-bottom: 20px;
+}
+.navbar-toggler:focus{
+	box-shadow: none;
+}
+/* Navbar part end */
+
+/* Banner part start */
+.banner{
+  padding-top: 50px;
+}
+.banner h1{
+  width: auto;
+  font-size: 40px;
+  line-height: 54px;
+}
+.banner .p {
+	width: auto;
+}
+.banner .box {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.banner .profile {
+	width: 50px;
+	height: 50px;
+}
+/* Banner part end */
+
 /* wellcome part start */
 .wellcome {
 	padding: 85px 0;
@@ -723,6 +859,28 @@ p{
 	font-size: 14px;
 	padding: 13px 20px;
 }
+
+/* Banner part start */
+.banner{
+  padding-top: 50px;
+}
+.banner h1{
+  width: auto;
+  font-size: 40px;
+  line-height: 54px;
+}
+.banner .p {
+	width: auto;
+}
+.banner .box {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+.banner .profile {
+	width: 50px;
+	height: 50px;
+}
+/* Banner part end */
 /* wellcome part start */
 .wellcome {
 	padding: 85px 0;
